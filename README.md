@@ -16,8 +16,7 @@ A simple Lua obfuscator designed for Roblox scripts.
 3. Place your Lua script in a file named `script.lua` in the same folder as `obfuscator.lua`.
 
 ## Usage
-1. Double-click `run.bat` or run from the command line with options: `run.bat [options]`
-   - Options: `nojunk`, `nominify`, `noscramble`
+1. Double-click `Start.bat` or run from the CMD
 2. The obfuscator will automatically read and obfuscate the script from `script.lua`.
 3. Copy the obfuscated code from the console.
 
