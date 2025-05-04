@@ -1,3 +1,9 @@
+-- Lerman
+-- 05.05.2025
+-- 2:03
+-- obfuscator.lua
+
+
 print("--//Made with Lerman's Obfuscator\\--")
 
 -- Initialize random seed
