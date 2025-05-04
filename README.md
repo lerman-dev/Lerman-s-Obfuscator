@@ -1,6 +1,6 @@
 # Lerman's Obfuscator
 
-A simple Lua obfuscator designed for Roblox scripts.
+A simple Lua and LuaU obfuscator written in Lua.
 
 ## Features
 - Variable renaming
