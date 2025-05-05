@@ -34,3 +34,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For issues or suggestions, contact Lerman on Telegram: `@lermandev`.
+
+If you find this project useful, please give it a ⭐ on GitHub to show your support! Feedback and contributions are welcome.
