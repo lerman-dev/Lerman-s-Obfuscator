@@ -1,6 +1,13 @@
 # Lerman's Obfuscator
 
-A simple Lua and LuaU obfuscator written in Lua.
+A simple yet powerful Lua obfuscator designed for Roblox scripts. Protect your code with ease!
+
+![GitHub release](https://img.shields.io/github/v/release/LERMANOBFUSCATOR/LermansObfuscator?label=version)
+
+## Why Choose Lerman's Obfuscator?
+- **Lightweight and Easy**: No complicated setup, just drop your script in `script.lua` and run!
+- **Roblox-Friendly**: Perfect for securing Roblox Lua scripts.
+- **Multiple Obfuscation Layers**: Variable renaming, string encoding, junk code, minification, and line scrambling.
 
 ## Features
 - Variable renaming
@@ -16,7 +23,8 @@ A simple Lua and LuaU obfuscator written in Lua.
 3. Place your Lua script in a file named `script.lua` in the same folder as `obfuscator.lua`.
 
 ## Usage
-1. Double-click `Start.bat` or run from the CMD
+1. Double-click `run.bat` or run from the command line with options: `run.bat [options]`
+   - Options: `nojunk`, `nominify`, `noscramble`
 2. The obfuscator will automatically read and obfuscate the script from `script.lua`.
 3. Copy the obfuscated code from the console.
 
@@ -28,4 +36,4 @@ A simple Lua and LuaU obfuscator written in Lua.
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For issues or suggestions, contact me on Discord or Telegram. Discord: lerman228; Telegram: @lermandev
+For issues or suggestions, contact Lerman on Telegram: `@lermandev`.
